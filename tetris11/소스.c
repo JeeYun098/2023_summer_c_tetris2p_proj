@@ -1514,3 +1514,5 @@ void pause(void) { //게임 일시정지 함수
         }
     }
 } //끝!
+
+//참고자료:https://blog.naver.com/PostView.naver?blogId=azure0777&logNo=220295388741
